@@ -31,4 +31,4 @@
   ## Contact Info
   none
   ## Screenshot (NOT PART OF GENERATOR)
-  ![screenshot](/Screen Shot 2022-09-23 at 16.11.04.png)
+  ![screenshot](https://github.com/sokolroman/README-generator/blob/ef6d479a37813194aa7c7c642f96ee5f74753d57/Screen%20Shot%202022-09-23%20at%2016.11.04.png)
