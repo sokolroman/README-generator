@@ -33,5 +33,5 @@
   ## Screenshot (NOT PART OF GENERATOR)
   ![screenshot](https://github.com/sokolroman/README-generator/blob/ef6d479a37813194aa7c7c642f96ee5f74753d57/Screen%20Shot%202022-09-23%20at%2016.11.04.png)
  ## TEST
-  ![tutorial]( https://vimeo.com/753123696 )
+  [tutorial]( https://vimeo.com/753123696 )
 
