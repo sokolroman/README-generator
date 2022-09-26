@@ -32,38 +32,38 @@ function renderLicenseBadge(license) {
   // Create a function to generate markdown for README
   function generateMarkdown(data) {
     return `# ${data.title}
-    ## Table of Contents
-    1.[Installation](#installation)
+## Table of Contents
+1.[Installation](#installation)
   
-    2.[Instructions](#instructions)
+2.[Instructions](#instructions)
   
-    3.[Description](#description)
+3.[Description](#description)
   
-    4.[Usage](#usage)
+4.[Usage](#usage)
   
-    5.[License](#license)
+5.[License](#license)
   
-    5.[Credit](#credit)
+6.[Credit](#credit)
     
-    6.[Contact Info](#credit)
+7.[Contact Info](#credit)
   
-    ## Installation
-    ${data.installation}
-    ## Instructions
-    ${data.instructions}
-    ## Description
-    ${data.description}
-    ## Usage
-    ${data.usage}
-    ## License
-    ${data.license}
-    ${renderLicenseBadge(data.license)}
-    ${renderLicenseLink(data.license)}
-    ## Credit
-    ${data.credit}
-    ## Contact Info
-    ${data.contact}
-    `
+## Installation
+${data.installation}
+## Instructions
+${data.instructions}
+## Description
+${data.description}
+## Usage
+${data.usage}
+## License
+${data.license}
+${renderLicenseBadge(data.license)}
+${renderLicenseLink(data.license)}
+## Credit
+${data.credit}
+## Contact Info
+${data.contact}
+`
     
   }
   
